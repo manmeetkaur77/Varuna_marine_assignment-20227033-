@@ -67,7 +67,7 @@ Implements Article 20 – Banking (store and apply compliance balances).
 
 ### 4-Pooling Tab
 Implements Article 21 – Pooling (share adjusted compliance balances).  
-![Pooling Tab](./frontend/public/screenshots/pooling-tab.png)
+![Pooling Tab](./frontend/public/screenshots/pooling.png)
 
 ---
 
